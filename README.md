@@ -23,7 +23,7 @@ It also includes the code for several baseline methods (Full Fine-tuning, LoRA, 
 
 1.  Clone the repository:
     ```bash
-    git clone github.com/renziang666/CL-Strategies-for-Low-Resource-Whisper-Fine-tuning
+    git clone https://github.com/renziang666/CL-Strategies-for-Low-Resource-Whisper-Fine-tuning
     
     ```
 

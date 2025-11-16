@@ -1,0 +1,961 @@
+{
+    "ab": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "af": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "am": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "ar": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 2,
+        "invalidated": 1
+    },
+    "as": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "ast": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "az": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "ba": {
+        "train": 3,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "bas": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "be": {
+        "train": 9,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "bg": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "bn": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 25,
+        "invalidated": 1
+    },
+    "br": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "ca": {
+        "train": 31,
+        "dev": 1,
+        "test": 1,
+        "other": 6,
+        "invalidated": 4
+    },
+    "ckb": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "cnh": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "cs": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 4,
+        "invalidated": 1
+    },
+    "cv": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "cy": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "da": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "dav": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 2,
+        "invalidated": 1
+    },
+    "de": {
+        "train": 16,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 2
+    },
+    "dv": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "dyu": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "el": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "en": {
+        "train": 29,
+        "dev": 1,
+        "test": 1,
+        "other": 10,
+        "invalidated": 8
+    },
+    "eo": {
+        "train": 4,
+        "dev": 1,
+        "test": 1,
+        "other": 4,
+        "invalidated": 4
+    },
+    "es": {
+        "train": 9,
+        "dev": 1,
+        "test": 1,
+        "other": 29,
+        "invalidated": 3
+    },
+    "et": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "eu": {
+        "train": 4,
+        "dev": 1,
+        "test": 1,
+        "other": 3,
+        "invalidated": 2
+    },
+    "fa": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "fi": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "fr": {
+        "train": 15,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 2
+    },
+    "fy-NL": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 3,
+        "invalidated": 1
+    },
+    "ga-IE": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "gl": {
+        "train": 2,
+        "dev": 1,
+        "test": 1,
+        "other": 4,
+        "invalidated": 1
+    },
+    "gn": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "ha": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "he": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "hi": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "hsb": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "ht": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "hu": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 2,
+        "invalidated": 1
+    },
+    "hy-AM": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "ia": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "id": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "ig": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "is": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "it": {
+        "train": 5,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "ja": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 7,
+        "invalidated": 1
+    },
+    "ka": {
+        "train": 2,
+        "dev": 1,
+        "test": 1,
+        "other": 3,
+        "invalidated": 1
+    },
+    "kab": {
+        "train": 4,
+        "dev": 1,
+        "test": 1,
+        "other": 3,
+        "invalidated": 1
+    },
+    "kk": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "kln": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "kmr": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "ko": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "ky": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "lg": {
+        "train": 2,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "lij": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "lo": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "lt": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "ltg": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "luo": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 2,
+        "invalidated": 1
+    },
+    "lv": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "mdf": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "mhr": {
+        "train": 5,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "mk": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "ml": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "mn": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 2,
+        "invalidated": 1
+    },
+    "mr": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "mrj": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "mt": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "myv": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "nan-tw": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "nb-NO": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "ne-NP": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "nhi": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "nl": {
+        "train": 2,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "nn-NO": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "nr": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "nso": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "oc": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "or": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "os": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "pa-IN": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "pl": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "ps": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 2,
+        "invalidated": 1
+    },
+    "pt": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "quy": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "rm-sursilv": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "rm-vallader": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "ro": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "ru": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "rup": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "rw": {
+        "train": 26,
+        "dev": 1,
+        "test": 1,
+        "other": 2,
+        "invalidated": 6
+    },
+    "sah": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "sat": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "sc": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "sd": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "sk": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "skr": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "sl": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "sq": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "sr": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "st": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "sv-SE": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "sw": {
+        "train": 2,
+        "dev": 1,
+        "test": 1,
+        "other": 10,
+        "invalidated": 3
+    },
+    "ta": {
+        "train": 2,
+        "dev": 1,
+        "test": 1,
+        "other": 3,
+        "invalidated": 1
+    },
+    "te": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "tg": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "th": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 6,
+        "invalidated": 1
+    },
+    "ti": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "tig": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "tk": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "tn": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "tok": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "tr": {
+        "train": 2,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "ts": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "tt": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "tw": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "ug": {
+        "train": 3,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "uk": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "ur": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 5,
+        "invalidated": 1
+    },
+    "uz": {
+        "train": 2,
+        "dev": 1,
+        "test": 1,
+        "other": 4,
+        "invalidated": 1
+    },
+    "ve": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "vi": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "vot": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "xh": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "yi": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "yo": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "yue": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 2,
+        "invalidated": 1
+    },
+    "zgh": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "zh-CN": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 16,
+        "invalidated": 2
+    },
+    "zh-HK": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "zh-TW": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 2,
+        "invalidated": 1
+    },
+    "zu": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    },
+    "zza": {
+        "train": 1,
+        "dev": 1,
+        "test": 1,
+        "other": 1,
+        "invalidated": 1
+    }
+}
